@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# premake files and build folders
+*.make
+build
+bin
+.premake
